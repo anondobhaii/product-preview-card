@@ -76,7 +76,7 @@ body {
 @media (min-width: 760px) {
   .container .box .box-2 {
     width: 50%;
-    padding: 2em 4.2em 2em 2em;
+    padding: 1.8em;
   }
 }
 .container .box .box-2 h5 {
@@ -100,6 +100,8 @@ body {
 @media (min-width: 760px) {
   .container .box .box-2 h1 {
     margin-bottom: 20px;
+    font-size: 2.1rem;
+    line-height: 2rem;
   }
 }
 .container .box .box-2 p {
@@ -112,6 +114,7 @@ body {
 @media (min-width: 760px) {
   .container .box .box-2 p {
     margin-bottom: 30px;
+    font-size: 14px;
   }
 }
 .container .box .box-2 .price {
