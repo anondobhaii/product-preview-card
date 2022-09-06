@@ -131,7 +131,7 @@ body {
   color: var(--c-p-c);
   margin-bottom: 0;
 }
-.container .box .box-2 .price h4 {
+.container .box .box-2 .price span {
   font-family: "Montserrat", sans-serif;
   color: var(--c-n-dgb);
   font-weight: 400;
